@@ -1,0 +1,23 @@
+body{font-family: 'Oxygen', sans-serif;}
+h2 {text-align: center;}
+img {width: 100%;}
+p {text-align: center;}
+a {text-decoration: none}
+div div { height: 500px;
+    
+}
+
+h2+h2 {font-size: 40px;
+}
+
+.pink img {width: 50%; margin-top: 105px;   
+}
+.pink {text-align: center;
+}
+
+a {
+    padding: 20px; 
+}
+.acc p {margin-top: 50px}
+.footer {height: 30px;}
+
